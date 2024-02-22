@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 40px;
+}
+
+.total {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px 6px;
+    position: absolute;
+    top: 50px;
+    right: 40px;
+    font-size: 13px;
+}
