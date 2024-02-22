@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 20px 40px;
+    margin: 40px 60px;
 }
 
 .total {
@@ -12,7 +12,7 @@
     border-radius: 20px;
     padding: 2px 6px;
     position: absolute;
-    top: 50px;
-    right: 40px;
+    top: 60px;
+    right: 50px;
     font-size: 13px;
 }
